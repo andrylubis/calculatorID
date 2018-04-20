@@ -1,4 +1,4 @@
 # calculatorID
-##Algoritma ini adalah untuk menampilkan perhitungan dalam bentuk teks.
-Example: lima tambah tiga
+Algoritma ini adalah untuk menampilkan perhitungan dalam bentuk teks. <br>
+Example: lima tambah tiga <br>
 Hasilnya adalah: lima tambah tiga adalah delapan
